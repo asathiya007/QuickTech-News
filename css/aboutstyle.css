@@ -1,0 +1,74 @@
+body{
+    background-color:black;
+    color:lightgreen;
+    font-family:Arial, Helvetica, sans-serif
+    font-size:16px;
+    line-height: 1.6em;
+    margin:0;
+}
+
+#navbar a:hover{
+    color:lightgreen;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+
+#main-header{
+    color:lightgreen;
+    text-align: center;
+    font-size: 60px;
+}
+
+#navbar{
+    color:white;
+    text-align: center;
+}
+
+#navbar ul{
+    padding:none;
+    list-style:none;
+}
+
+#navbar li{
+    display:inline;
+}
+
+#navbar a{
+    color:white;
+    text-decoration: none;
+    font-size: 38px;
+    padding-right: 35px;
+}
+
+#sub-header{
+    color:lightgreen;
+    text-align:center;
+    font-size:30px;
+}
+
+#showcase{
+    background-image:url(../images/AkshaySathiyaPic.jpg);
+    min-height:400px;
+    background-repeat: no-repeat;
+    background-position:center;
+    margin-bottom:30px;
+    text-align: center;
+    font-size: 32px;
+}
+
+#main{
+    padding-top:40px;
+    font-size: 20px;
+    text-align: center;
+    height:300px;
+    line-height: 1.6em;
+}
+
+#main-footer{
+    text-align:center;
+    margin-tip:40px;
+}
